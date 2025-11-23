@@ -1,0 +1,73 @@
+Field,Label,Value
+id,Dataset ID,cb58fa1f-687d-4cac-81a7-655ab1efb2d0
+title,Title of Dataset,Ethiopia - Subnational Administrative Boundaries
+name,Dataset URL,cod-ab-eth
+notes,Description,"Ethiopia administrative level 0-3 boundaries (COD-AB) dataset version 03.   This dataset is structured into 3 levels: - Admin 1: 13 Region - Admin 2: 92 Zone - Admin 3: 1082 Woreda   Dates associated with this dataset: - 23 November 2021: boundaries created by the source - 23 November 2021: last edit to the dataset before publishing - 14 December 2021: valid for use by the humanitarian community - 19 December 2024: dataset reviewed for accuracy and completeness - 22 October 2025: this metadata updated   Quality assured, configured, and published by HDX and OCHA Field Information Services (FIS)."
+dataset_source,Source,CSA (Central Statistics Agency) + Regional Bureau of Finance and Economic Development (BoFED)
+organization,Contributor,OCHA Ethiopia
+dataset_date,Reference Period,[2021-12-14T00:00:00 TO 2024-12-19T23:59:59]
+last_modified,Updated,2025-11-19T13:37:28.914405
+data_update_frequency,Expected Update Frequency,Every year
+groups,Location,Ethiopia
+license_title,License,Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)
+methodology,Methodology,Other
+methodology_other,Define Methodology,Dataset: Obtained from CSA (Central Statistics Agency) + Regional Bureau of Finance and Economic Development (BoFED); modified by OCHA
+caveats,Caveats/Comments,"The Ethiopia - Subnational Administrative Boundaries dataset is due to be updated in October/November 2024. 
+
+Lake T’ana is not shown in administrative level 1 as it lies completely within the Amhara [ET03] kilil (region).  Similarly Lake Awasa is not shown in level 1 as it lies within (although bordering the edge of) SNNP (Southern Nations, Nationalities, and Peoples') [ET07] kilil.  Both lakes form holes in administrative levels 2 and 3.
+
+
+In the administrative boundary dataset, two administrative level 3 units cannot be represented on maps because of their contested boundaries, but they are being used in all types of analysis. These are Dawe Serer (ET042199) in Oromia region and Quarsadula (ET050905) in Somali region. These two are included on HDX in other datasets, for example on the population statistics and humanitarian profile, and in the gazetteer provided with this dataset."
+tags,Tags,"administrative boundaries-divisions, gazetteer"
+resource_1_created,Created,2025-11-03T16:00:44.319128
+resource_1_description,Description,"Ethiopia administrative level 0-3 boundaries (COD-AB), Geodatabase"
+resource_1_format,File Format,Geodatabase
+resource_1_download_url,Download URL,https://data.humdata.org/dataset/cb58fa1f-687d-4cac-81a7-655ab1efb2d0/resource/22ce2861-a868-4bfd-b13a-d88c3642c38b/download/eth_admin_boundaries.gdb.zip
+resource_1_id,Resource ID,22ce2861-a868-4bfd-b13a-d88c3642c38b
+resource_1_last_modified,Updated,2025-11-19T13:37:28.520621
+resource_1_metadata_modified,Metadata Updated,2025-11-19T13:37:35.379062
+resource_1_microdata,Microdata,False
+resource_1_dataset_id,Dataset ID,cb58fa1f-687d-4cac-81a7-655ab1efb2d0
+resource_1_resource_type,Resource Type,file.upload
+resource_1_name,Resource Name,eth_admin_boundaries.gdb.zip
+resource_1_mimetype,MIME Type,application/zip
+resource_1_size,Size,9.7M
+resource_2_created,Created,2025-11-03T16:00:44.319132
+resource_2_description,Description,"Ethiopia administrative level 0-3 boundaries (COD-AB), SHP"
+resource_2_format,File Format,SHP
+resource_2_download_url,Download URL,https://data.humdata.org/dataset/cb58fa1f-687d-4cac-81a7-655ab1efb2d0/resource/274872ef-5add-48f4-95a4-5ce162af7f3f/download/eth_admin_boundaries.shp.zip
+resource_2_id,Resource ID,274872ef-5add-48f4-95a4-5ce162af7f3f
+resource_2_last_modified,Updated,2025-11-19T13:37:28.757368
+resource_2_metadata_modified,Metadata Updated,2025-11-19T13:37:37.366662
+resource_2_microdata,Microdata,False
+resource_2_dataset_id,Dataset ID,cb58fa1f-687d-4cac-81a7-655ab1efb2d0
+resource_2_resource_type,Resource Type,file.upload
+resource_2_name,Resource Name,eth_admin_boundaries.shp.zip
+resource_2_mimetype,MIME Type,application/zip
+resource_2_size,Size,18.7M
+resource_3_created,Created,2025-11-03T16:00:44.319134
+resource_3_description,Description,"Ethiopia administrative level 0-3 boundaries (COD-AB), GeoJSON"
+resource_3_format,File Format,GeoJSON
+resource_3_download_url,Download URL,https://data.humdata.org/dataset/cb58fa1f-687d-4cac-81a7-655ab1efb2d0/resource/0518da1b-42d1-4624-ad64-768cb69f9d40/download/eth_admin_boundaries.geojson.zip
+resource_3_id,Resource ID,0518da1b-42d1-4624-ad64-768cb69f9d40
+resource_3_last_modified,Updated,2025-11-19T13:37:28.914405
+resource_3_metadata_modified,Metadata Updated,2025-11-19T13:37:35.379241
+resource_3_microdata,Microdata,False
+resource_3_dataset_id,Dataset ID,cb58fa1f-687d-4cac-81a7-655ab1efb2d0
+resource_3_resource_type,Resource Type,file.upload
+resource_3_name,Resource Name,eth_admin_boundaries.geojson.zip
+resource_3_mimetype,MIME Type,application/zip
+resource_3_size,Size,21.5M
+resource_4_created,Created,2025-11-03T16:00:44.319137
+resource_4_description,Description,"Ethiopia administrative level 0-3 boundaries (COD-AB), XLSX"
+resource_4_format,File Format,XLSX
+resource_4_download_url,Download URL,https://data.humdata.org/dataset/cb58fa1f-687d-4cac-81a7-655ab1efb2d0/resource/e43e2790-f867-4b24-89cf-acfd9bc514e5/download/eth_admin_boundaries.xlsx
+resource_4_id,Resource ID,e43e2790-f867-4b24-89cf-acfd9bc514e5
+resource_4_last_modified,Updated,2025-11-03T16:00:44.097513
+resource_4_metadata_modified,Metadata Updated,2025-11-19T13:37:35.379338
+resource_4_microdata,Microdata,False
+resource_4_dataset_id,Dataset ID,cb58fa1f-687d-4cac-81a7-655ab1efb2d0
+resource_4_resource_type,Resource Type,file.upload
+resource_4_name,Resource Name,eth_admin_boundaries.xlsx
+resource_4_mimetype,MIME Type,
+resource_4_size,Size,224.5K
