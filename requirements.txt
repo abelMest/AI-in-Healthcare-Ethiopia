@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+streamlit-shadcn-ui
+geopandas
+matplotlib
+numpy
+Pillow
