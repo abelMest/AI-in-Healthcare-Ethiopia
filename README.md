@@ -1,8 +1,11 @@
 AI in Healthcare Ethiopia: 2025 Landscape Analysis
+
 A Strategic Intelligence Dashboard for Policy Makers, Donors, and Health Innovators.
+
 By Abel Mestie Mekonnen (MD, PHIF)
 
 **Overview**
+
 This project presents the findings of a cross-sectional digital survey targeting 449 healthcare professionals in Ethiopia. It bridges the data gap regarding Artificial Intelligence (AI) readiness in East Africa, utilizing the Knowledge, Attitude, and Practice (KAP) framework. 
 The dashboard moves beyond simple statistics to provide Geospatial Intelligence and Statistical Triangulation, revealing that the primary barrier to AI adoption is not "awareness" but "infrastructure."
 
