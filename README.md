@@ -1,12 +1,13 @@
 AI in Healthcare Ethiopia: 2025 Landscape Analysis
 A Strategic Intelligence Dashboard for Policy Makers, Donors, and Health Innovators.
+By Abel Mestie Mekonnen (MD, PHIF)
 
 **Overview**
 This project presents the findings of a cross-sectional digital survey targeting 449 healthcare professionals in Ethiopia. It bridges the data gap regarding Artificial Intelligence (AI) readiness in East Africa, utilizing the Knowledge, Attitude, and Practice (KAP) framework. 
 The dashboard moves beyond simple statistics to provide Geospatial Intelligence and Statistical Triangulation, revealing that the primary barrier to AI adoption is not "awareness" but "infrastructure."
 
 **Live Dashboard**
-Click here to view the Interactive Dashboard (Note: Replace this link with your actual Streamlit Cloud URL after deployment)
+Click the link to view the Interactive Dashboard : https://appaipy-ggv5p4sbemcayf8a2b8rwz.streamlit.app/
 
 **Key Insights (The "Fear Paradox")**
 Our analysis reveals three critical insights for the National Digital Health Strategy:
@@ -14,12 +15,12 @@ Our analysis reveals three critical insights for the National Digital Health Str
 
 2. **The "Hidden Readiness":** Geospatial mapping shows that adoption is not centralized in the capital. Regions like Sidama (63%) and Harari (62.5%) outperform expectations, challenging the narrative that digital health is solely a capital-city phenomenon.
 
-3. **The Knowledge-Practice Gap: **Statistical triangulation exposes a weak correlation (r=0.14) between knowing AI concepts and using them. This suggests that funding "Education Workshops" yields diminishing returns compared to investing in "Connectivity & Access."
+3. **The Knowledge-Practice Gap:** Statistical triangulation exposes a weak correlation (r=0.14) between knowing AI concepts and using them. This suggests that funding "Education Workshops" yields diminishing returns compared to investing in "Connectivity & Access."
 
 **Features**
 This dashboard is built with Streamlit and Plotly, featuring a custom "Dark Mode" UI.
 
 **Executive Command**: High-level KPIs showing Adoption Rates, Fear Index, and Regulation Demand.
-**Geospatial Intelligence:** Interactive choropleth map visualizing adoption intensity across Ethiopian regions using Shapefiles.
-**Strategic Analysis:** Bubble charts identifying "Latent Markets" (High Trust / High Knowledge).
-**Policy Pulse:** Diverging bar charts analyzing workforce sentiment towards regulation.
+**Geospatial Intelligence**: Interactive choropleth map visualizing adoption intensity across Ethiopian regions using Shapefiles.
+**Strategic Analysis**: Bubble charts identifying "Latent Markets" (High Trust / High Knowledge).
+**Policy Pulse**: Diverging bar charts analyzing workforce sentiment towards regulation.
