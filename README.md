@@ -10,9 +10,11 @@ This project presents the findings of a cross-sectional digital survey targeting
 The dashboard moves beyond simple statistics to provide Geospatial Intelligence and Statistical Triangulation, revealing that the primary barrier to AI adoption is not "awareness" but "infrastructure."
 
 **Live Dashboard**
+
 Click the link to view the Interactive Dashboard : https://appaipy-ggv5p4sbemcayf8a2b8rwz.streamlit.app/
 
 **Key Insights (The "Fear Paradox")**
+
 Our analysis reveals three critical insights for the National Digital Health Strategy:
 1. **High Adoption, High Anxiety:** While 53.5% of respondents use validated AI tools, 33% fear job displacement. Surprisingly, this fear is positively correlated with higher AI literacy.
 
@@ -21,9 +23,13 @@ Our analysis reveals three critical insights for the National Digital Health Str
 3. **The Knowledge-Practice Gap:** Statistical triangulation exposes a weak correlation (r=0.14) between knowing AI concepts and using them. This suggests that funding "Education Workshops" yields diminishing returns compared to investing in "Connectivity & Access."
 
 **Features**
-This dashboard is built with Streamlit and Plotly, featuring a custom "Dark Mode" UI.
+
+This dashboard is built with Streamlit and Plotly.
 
 **Executive Command**: High-level KPIs showing Adoption Rates, Fear Index, and Regulation Demand.
+
 **Geospatial Intelligence**: Interactive choropleth map visualizing adoption intensity across Ethiopian regions using Shapefiles.
+
 **Strategic Analysis**: Bubble charts identifying "Latent Markets" (High Trust / High Knowledge).
+
 **Policy Pulse**: Diverging bar charts analyzing workforce sentiment towards regulation.
